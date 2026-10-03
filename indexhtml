@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jet Phile | World No #1 Aviator Analyst</title>
+<meta name="description" content="Join Jet Phile - World No #1 Aviator Analyst channel on Telegram for daily Aviator signals & analysis.">
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1639999760854633');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1639999760854633&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    font-family:'Segoe UI', Arial, sans-serif;
+    background: radial-gradient(ellipse at top, #1a1d24 0%, #0d0f13 70%);
+    color:#fff;
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:24px;
+  }
+  .card {
+    max-width:420px;
+    width:100%;
+    text-align:center;
+    background:rgba(255,255,255,0.03);
+    border:1px solid rgba(255,255,255,0.08);
+    border-radius:24px;
+    padding:40px 28px;
+    box-shadow:0 20px 60px rgba(0,0,0,0.5);
+  }
+  .logo {
+    width:170px;
+    height:170px;
+    border-radius:50%;
+    object-fit:cover;
+    border:3px solid #e11d2e;
+    box-shadow:0 0 40px rgba(225,29,46,0.45);
+    margin-bottom:24px;
+  }
+  h1 {
+    font-size:30px;
+    letter-spacing:1px;
+    margin-bottom:6px;
+  }
+  h1 span { color:#e11d2e; }
+  .tagline {
+    color:#9aa0ab;
+    font-size:14px;
+    margin-bottom:24px;
+  }
+  .features {
+    text-align:left;
+    margin:0 auto 28px;
+    max-width:320px;
+  }
+  .features li {
+    list-style:none;
+    padding:10px 0 10px 34px;
+    position:relative;
+    font-size:15px;
+    color:#d7dae0;
+    border-bottom:1px dashed rgba(255,255,255,0.08);
+  }
+  .features li:last-child { border-bottom:none; }
+  .features li::before {
+    content:"✈";
+    position:absolute;
+    left:4px;
+    color:#e11d2e;
+  }
+  .join-btn {
+    display:block;
+    width:100%;
+    padding:16px;
+    font-size:17px;
+    font-weight:700;
+    color:#fff;
+    background:linear-gradient(135deg,#e11d2e,#ff4d5e);
+    border:none;
+    border-radius:14px;
+    cursor:pointer;
+    text-decoration:none;
+    letter-spacing:0.5px;
+    transition:transform .15s ease, box-shadow .15s ease;
+    box-shadow:0 8px 24px rgba(225,29,46,0.4);
+  }
+  .join-btn:hover {
+    transform:translateY(-2px);
+    box-shadow:0 12px 32px rgba(225,29,46,0.55);
+  }
+  .free-badge {
+    display:inline-block;
+    margin-top:16px;
+    font-size:12px;
+    color:#3ddc84;
+    border:1px solid rgba(61,220,132,0.4);
+    padding:5px 14px;
+    border-radius:20px;
+  }
+  .footer {
+    margin-top:24px;
+    font-size:12px;
+    color:#6b7078;
+  }
+</style>
+<base target="_blank">
+</head>
+<body>
+
+<div class="card">
+  <img class="logo" src="https://i.ibb.co/ynWsWq1P/Whats-App-Image-2026-08-14-at-13-29-09.jpg" alt="Jet Phile Logo">
+  <h1>JET <span>PHILE</span></h1>
+  <p class="tagline">World No #1 Aviator Analyst</p>
+
+  <ul class="features">
+    <li>Daily accurate Aviator signals</li>
+    <li>Live analysis &amp; timing updates</li>
+    <li>100% Free Telegram channel</li>
+    <li>Fastest results &amp; support</li>
+  </ul>
+
+  <a class="join-btn" id="joinBtn" href="https://telegram.me/+p_oNQ3I1Ofw5ZTlk" target="_blank" rel="noopener">
+    ✈ JOIN TELEGRAM CHANNEL
+  </a>
+
+  <div class="free-badge">🟢 Free Access &nbsp;|&nbsp; Limited Slots</div>
+
+  <p class="footer">© 2026 Jet Phile. All rights reserved.</p>
+</div>
+
+<script>
+  document.getElementById('joinBtn').addEventListener('click', function () {
+    if (typeof fbq === 'function') {
+      fbq('track', 'Contact');   // Meta Pixel event for join button click
+    }
+  });
+</script>
+
+</body>
+</html>
